@@ -1,6 +1,6 @@
 <p align="center">
-<img width="427" height="240" alt="yamada" src="https://github.com/user-attachments/assets/20c58f9b-17b5-4f29-b99f-ece511ac7b90" />
-<img width="427" height="240" alt="tayama" src="https://github.com/user-attachments/assets/b115b408-b996-4d1b-8a70-38cd5ec3ccd8" />
+<img width="285" height="160" alt="yamada" src="https://github.com/user-attachments/assets/20c58f9b-17b5-4f29-b99f-ece511ac7b90" />
+<img width="285" height="160" alt="tayama" src="https://github.com/user-attachments/assets/b115b408-b996-4d1b-8a70-38cd5ec3ccd8" />
 
 
 <p align="center">
